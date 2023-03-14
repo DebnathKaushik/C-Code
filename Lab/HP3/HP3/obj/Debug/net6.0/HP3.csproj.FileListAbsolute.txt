@@ -1,0 +1,15 @@
+D:\c# 4th semister Home practies\Lab\HP3\HP3\bin\Debug\net6.0\HP3.exe
+D:\c# 4th semister Home practies\Lab\HP3\HP3\bin\Debug\net6.0\HP3.deps.json
+D:\c# 4th semister Home practies\Lab\HP3\HP3\bin\Debug\net6.0\HP3.runtimeconfig.json
+D:\c# 4th semister Home practies\Lab\HP3\HP3\bin\Debug\net6.0\HP3.dll
+D:\c# 4th semister Home practies\Lab\HP3\HP3\bin\Debug\net6.0\HP3.pdb
+D:\c# 4th semister Home practies\Lab\HP3\HP3\obj\Debug\net6.0\HP3.csproj.AssemblyReference.cache
+D:\c# 4th semister Home practies\Lab\HP3\HP3\obj\Debug\net6.0\HP3.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# 4th semister Home practies\Lab\HP3\HP3\obj\Debug\net6.0\HP3.AssemblyInfoInputs.cache
+D:\c# 4th semister Home practies\Lab\HP3\HP3\obj\Debug\net6.0\HP3.AssemblyInfo.cs
+D:\c# 4th semister Home practies\Lab\HP3\HP3\obj\Debug\net6.0\HP3.csproj.CoreCompileInputs.cache
+D:\c# 4th semister Home practies\Lab\HP3\HP3\obj\Debug\net6.0\HP3.dll
+D:\c# 4th semister Home practies\Lab\HP3\HP3\obj\Debug\net6.0\refint\HP3.dll
+D:\c# 4th semister Home practies\Lab\HP3\HP3\obj\Debug\net6.0\HP3.pdb
+D:\c# 4th semister Home practies\Lab\HP3\HP3\obj\Debug\net6.0\HP3.genruntimeconfig.cache
+D:\c# 4th semister Home practies\Lab\HP3\HP3\obj\Debug\net6.0\ref\HP3.dll

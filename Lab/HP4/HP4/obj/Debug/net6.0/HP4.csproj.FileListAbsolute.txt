@@ -1,0 +1,15 @@
+D:\c# 4th semister Home practies\Lab\HP4\HP4\obj\Debug\net6.0\HP4.csproj.AssemblyReference.cache
+D:\c# 4th semister Home practies\Lab\HP4\HP4\obj\Debug\net6.0\HP4.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# 4th semister Home practies\Lab\HP4\HP4\obj\Debug\net6.0\HP4.AssemblyInfoInputs.cache
+D:\c# 4th semister Home practies\Lab\HP4\HP4\obj\Debug\net6.0\HP4.AssemblyInfo.cs
+D:\c# 4th semister Home practies\Lab\HP4\HP4\obj\Debug\net6.0\HP4.csproj.CoreCompileInputs.cache
+D:\c# 4th semister Home practies\Lab\HP4\HP4\bin\Debug\net6.0\HP4.exe
+D:\c# 4th semister Home practies\Lab\HP4\HP4\bin\Debug\net6.0\HP4.deps.json
+D:\c# 4th semister Home practies\Lab\HP4\HP4\bin\Debug\net6.0\HP4.runtimeconfig.json
+D:\c# 4th semister Home practies\Lab\HP4\HP4\bin\Debug\net6.0\HP4.dll
+D:\c# 4th semister Home practies\Lab\HP4\HP4\bin\Debug\net6.0\HP4.pdb
+D:\c# 4th semister Home practies\Lab\HP4\HP4\obj\Debug\net6.0\HP4.dll
+D:\c# 4th semister Home practies\Lab\HP4\HP4\obj\Debug\net6.0\refint\HP4.dll
+D:\c# 4th semister Home practies\Lab\HP4\HP4\obj\Debug\net6.0\HP4.pdb
+D:\c# 4th semister Home practies\Lab\HP4\HP4\obj\Debug\net6.0\HP4.genruntimeconfig.cache
+D:\c# 4th semister Home practies\Lab\HP4\HP4\obj\Debug\net6.0\ref\HP4.dll

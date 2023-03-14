@@ -1,0 +1,15 @@
+D:\c# 4th semister Home practies\Lab\HP2\HP2\obj\Debug\net6.0\HP2.csproj.AssemblyReference.cache
+D:\c# 4th semister Home practies\Lab\HP2\HP2\obj\Debug\net6.0\HP2.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# 4th semister Home practies\Lab\HP2\HP2\obj\Debug\net6.0\HP2.AssemblyInfoInputs.cache
+D:\c# 4th semister Home practies\Lab\HP2\HP2\obj\Debug\net6.0\HP2.AssemblyInfo.cs
+D:\c# 4th semister Home practies\Lab\HP2\HP2\obj\Debug\net6.0\HP2.csproj.CoreCompileInputs.cache
+D:\c# 4th semister Home practies\Lab\HP2\HP2\bin\Debug\net6.0\HP2.exe
+D:\c# 4th semister Home practies\Lab\HP2\HP2\bin\Debug\net6.0\HP2.deps.json
+D:\c# 4th semister Home practies\Lab\HP2\HP2\bin\Debug\net6.0\HP2.runtimeconfig.json
+D:\c# 4th semister Home practies\Lab\HP2\HP2\bin\Debug\net6.0\HP2.dll
+D:\c# 4th semister Home practies\Lab\HP2\HP2\bin\Debug\net6.0\HP2.pdb
+D:\c# 4th semister Home practies\Lab\HP2\HP2\obj\Debug\net6.0\HP2.dll
+D:\c# 4th semister Home practies\Lab\HP2\HP2\obj\Debug\net6.0\refint\HP2.dll
+D:\c# 4th semister Home practies\Lab\HP2\HP2\obj\Debug\net6.0\HP2.pdb
+D:\c# 4th semister Home practies\Lab\HP2\HP2\obj\Debug\net6.0\HP2.genruntimeconfig.cache
+D:\c# 4th semister Home practies\Lab\HP2\HP2\obj\Debug\net6.0\ref\HP2.dll
